@@ -1,0 +1,13 @@
+# Ctrl + P --> Commmand Pallet
+# Ctrl + F --> Find
+# Ctrl + P then @ --> all symbols in code
+# Ctrl + P then : --> enter line number to jump to it
+# Ctrl + D --> find match, press again to add a cursor to next match
+# Alt + click --> multiple cursors
+# Ctrl + x --> to cut the line 
+# Alt + up or down arrow key --> to move the line
+# Alt + Shift + up or down arrow key --> to copy the line
+# Ctrl + L --> to highlight code line by line
+# Ctrl + / --> to comment multiple lines at the same time
+# Ctrl + ` --> to open terminal
+# Ctrl + K --> to clear the terminal
